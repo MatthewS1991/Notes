@@ -9,3 +9,7 @@
 ## TypeScript
 
 ## Markdown
+
+## Git
+
+## Powershell
