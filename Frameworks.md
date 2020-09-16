@@ -1,6 +1,5 @@
 # Frameworks
- is a platform for developing software applications. It provides a foundation on which software developers can build programs for a specific platform. For example, a framework may include predefined classes and functions that can be used to process input, manage hardware devices, and interact with system software. a: a basic conceptional structure (as of ideas)
-b: a skeletal, openwork, or structural frame. framework serves as a foundation for programming, while an API provides access to the elements supported by the framework. A framework may also include code libraries, a compiler, and other programs used in the software development process
+
   
 ## jquery 
 jQuery is a lightweight, "write less, do more", JavaScript library. The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code. jQuery uses CSS-style selectors to select parts, or elements, of an HTML page. ... In jQuery, the class and ID selectors are like those in CSS. Here's an example of a jQuery method that selects all paragraph elements, and adds a class of "selected" to them
